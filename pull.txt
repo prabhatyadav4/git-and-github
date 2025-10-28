@@ -1,1 +1,2 @@
 This file is created to test the git command 'pull'.
+This file is also used to test the git commmand 'stash'.
